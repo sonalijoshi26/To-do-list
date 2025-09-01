@@ -20,7 +20,6 @@ A simple and responsive To-Do List application to add, moving tasks up/down and 
 
 ## 🛠 Tech Stack  
 - HTML5  
-- CSS3 / Tailwind CSS   
-- JavaScript (ES6+)  
-- React.js (if you built with React)  
-- Vercel / Netlify (for deployment)  
+- CSS3 / Tailwind CSS    
+- React.js 
+- Vercel  (for deployment)  
